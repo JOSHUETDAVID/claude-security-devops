@@ -18,15 +18,15 @@ los tienen mal configurados o ausentes sin saberlo.
 
 ## Instalación
 
-\```bash
+```bash
 git clone https://github.com/joshuet/claude-security-devops
 cd claude-security-devops
 cp -r skills/* ~/.claude/skills/
-\```
+```
 
 ## Uso
 
-\```
+```
 /docker-audit    → pasa el path de tu Dockerfile
 /headers-review  → Pasa el Contenido de tus headers
 \```
