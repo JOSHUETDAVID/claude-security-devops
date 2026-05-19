@@ -29,7 +29,7 @@ cp -r skills/* ~/.claude/skills/
 ```
 /docker-audit    → pasa el path de tu Dockerfile
 /headers-review  → Pasa el Contenido de tus headers
-\```
+```
 
 ## Roadmap v2.0
 - GitHub Actions audit
