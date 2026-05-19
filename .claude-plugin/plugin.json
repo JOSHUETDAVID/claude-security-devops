@@ -2,6 +2,7 @@
   "name": "security-devops",
   "description": "A plugin for security and devops practices",
   "version": "1.0.0",
+  "license": "MIT",
   "author": {
     "name": "Joshuet Diaz"
   }
